@@ -120,9 +120,15 @@ Dokumenter som inneholder vedlegg av denne typen vil kjøre gjennom alle valider
 Dersom dokumentet ikke blir avvist som følge av valideringsreglene vil det sendes til manuell behandling, [GBOK-13664](https://jira.statkart.no/browse/GBOK-13664).
 Vedlegg av type Annet er altså ikke i seg selv nok til at et dokument ikke blir avvist men blir sendt til manuell behandling.
 
-## Merking av vedlegg
+## Påtegning av vedlegg
 
-Kommer...
+Det arbeides med å avklare nærmere hvordan, og i hvilke tilfeller, det vil være aktuelt å påtegne vedlegg som legges ved 
+elektroniske innsendinger. Inntil en slik avklaring er på plass, vil vi anse alle vedlegg som legges ved elektroniske innsendinger 
+som «kopier» av et originaldokument, og vil kreve samme type påtegning på disse som ved papirinnsending i dag. 
+
+Det vil si at alle vedlegg, av en slik type (f.eks. en fullmakt) at det ved papirinnsending ville vært krav om bekreftelse av 
+rett kopi, og inneståelse fra advokat, eiendomsmegler el. om at en fullmakt fortsatt gjelder, skal påtegnes på samme måte der 
+vedlegget legges ved elektroniske innsendinger.
 
 ## Arkivering av vedlegg
 
@@ -131,3 +137,13 @@ Dette gjør at vedleggene er tilgjengelig for ettertiden og Kartverkets arkiveri
 
 Vedleggene blir ikke lagt ved ordinære bestillinger fra panteboken, men kan være aktuelle å gi ut ved eventuelle innsynsbegjæringer. 
 Dersom et dokument har flere vedlegg ved innsending, vil disse slås sammen til en vedleggsfil i panteboken. 
+
+## Vedlegg vs registrerte fullmakter
+Det er mulig å registrere fullmakter hos Kartverket for anvendelse ved elektronisk innsending til tinglysing. Det arbeides med å utvide denne
+fullmaktsløsningen, bl.a. slik at den vil gjelde flere disposisjoner som overdragelse og pant.
+
+Som beskrevet i denne veilederen kan fullmakter også sendes inn som vedlegg. Det er imidlertid ønskelig at fullmakter blir registrert
+i de tilfeller der en fullmakt skal benyttes flere/mange ganger.
+
+Fordelene med registrerte fullmakter er at man ved validering får et klart resultat hva angår signaturkontroll, man får raskere 
+saksgang da saksbehandlingen kan automatiseres, og man trenger ikke legge ved fullmakten som vedlegg ved hver innsending.
