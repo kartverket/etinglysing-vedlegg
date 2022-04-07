@@ -69,6 +69,9 @@ På grunn av dette vil denne signaturkontrollen overstyres både for overdragels
 Skifteattest/Uskifteattest vil også gjøre at signaturkontrollen for kjøper ved overdragelse av boligseksjon settes til side, 
 og saken sendes til manuell behandling, [GBOK-13625](https://jira.statkart.no/browse/GBOK-13625).
 
+#### Dersom ikke alle arvinger er gjeldsovertagende
+Info kommer om hva som gjelder dersom ikke alle arvinger er gjeldsovertagende. Om dette er tilfelle fremgår av skifteattesten.
+
 ### Skiftefullmakt
 
 Skiftefullmakt kan bare legges ved dokumenter der det også er lagt ved Skifteattest/Uskifteattest, 
