@@ -83,7 +83,7 @@ I visse tilfeller skal rettigheter fra skifteattest og testament tinglyses samme
 Ved elektronisk innsending med skifteattest og/eller testament som vedlegg, der disse inneholder bestemmelser som nevnt over, må rettighetene 
 være lagt inn som rettsstiftelser i signert elektronisk dokument for at tinglysing skal kunne godkjennes.
 
-Elektronisk innsendting av rettsstiftelsene over har ikke egne signaturregler. Da disse alltid må sendes inn i samme dokument som en overdragelse med 
+Det anvendes ikke egne signaturregler for rettsstiftelsene over ved elektronisk innsending. Da disse alltid må sendes inn i samme dokument som en overdragelse med 
 vedlegg, følger de signaturreglene for overdragelsen.
 
 ### Skiftefullmakt
