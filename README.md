@@ -74,9 +74,9 @@ I visse tilfeller skal rettigheter fra skifteattest og testament tinglyses samme
 * Fra skifteattest kan det fremgå at ikke alle arvinger er gjeldsovertagende. Dette tinglyses som rettsstiftelsen 
   * AH_GAR - BARE GJELDSOVERTAKENDE ARVINGER KAN RÅDE OVER REGISTERENHETEN
 * Fra testament kan det fremgå bestemmelse om privat beslagsforbud. Dette tinglyses som en av rettsstiftelsene
-  * AH_PBF - BESTEMMELSE OM PRIVAT BESLAGSFORBUD JF. DEKNINGSLOVEN § 3-1
-  * AH_PBG - BESTEMMELSE OM PRIVAT BESLAGSFORBUD JF. DEKNINGSLOVEN § 3-2
-  * AH_PBH - BESTEMMELSE OM PRIVAT BESLAGSFORBUD JF. DEKNINGSLOVEN §§ 3-1 OG 3-2
+  * AH_PBF - BESTEMMELSE OM PRIVAT BESLAGSFORBUD, JF. DEKNINGSLOVEN § 3-1
+  * AH_PBG - BESTEMMELSE OM PRIVAT BESLAGSFORBUD, JF. DEKNINGSLOVEN § 3-2
+  * AH_PBH - BESTEMMELSE OM PRIVAT BESLAGSFORBUD, JF. DEKNINGSLOVEN §§ 3-1 OG 3-2
 * Fra testament kan det fremgå bestemmelse om særeie. Dette tinglyses som rettsstiftelsen 
   * EN_SAT - SÆREIE IFØLGE TESTAMENT
 
