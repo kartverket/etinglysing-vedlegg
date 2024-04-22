@@ -1,0 +1,39 @@
+# nonk8s
+apiVersion: "backstage.io/v1alpha1"
+kind: "Component"
+metadata:
+  name: "etinglysing-vedlegg"
+  tags:
+  - "public"
+spec:
+  type: "documentation"
+  lifecycle: "production"
+  owner: "digibok"
+  system: "grunnbok"
+---
+apiVersion: "backstage.io/v1alpha1"
+kind: "Group"
+metadata:
+  name: "security_champion_etinglysing-vedlegg"
+  title: "Security Champion etinglysing-vedlegg"
+spec:
+  type: "security_champion"
+  parent: "eiendom_security_champions"
+  members:
+  - "haakl"
+  children:
+  - "resource:etinglysing-vedlegg"
+---
+apiVersion: "backstage.io/v1alpha1"
+kind: "Resource"
+metadata:
+  name: "etinglysing-vedlegg"
+  links:
+  - url: "https://github.com/kartverket/etinglysing-vedlegg"
+    title: "etinglysing-vedlegg på GitHub"
+spec:
+  type: "repo"
+  owner: "security_champion_etinglysing-vedlegg"
+  system: "grunnbok"
+  dependencyOf:
+  - "component:etinglysing-vedlegg"
